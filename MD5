@@ -1,0 +1,17 @@
+e575cd75a248b432dae4fdd134302f33 *DESCRIPTION
+7d852d3728a6c3f174670cda4a91da3a *NAMESPACE
+f485607893faacb411e3db81344d3e4b *NEWS.md
+c0c9c847ea9a1194ab04115a021eb357 *R/data-income.R
+6cd84a20045b9eb2e520a66b96aa3533 *R/etel.R
+74f639865d17403c128e3a4f690e94c2 *R/helpers.R
+81a1dcd570a9450ac0e7f69982122b96 *R/retel-package.R
+68d65763b8b7875b89e960e025edaf9f *R/retel.R
+fce0928b23d6885d3e39917dc521409b *README.md
+8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
+cc6d422b95d962c7a132ee857ae6d62d *data/income.rda
+719add3fc309051c32640c40378de7bc *inst/WORDLIST
+239f962abf93ace8f277f25c77da2d54 *man/etel.Rd
+2ab1fb4bcc2710b38e2e845ac711e114 *man/income.Rd
+d8cef43c851438987c125654d4d96c9b *man/retel-package.Rd
+02147614d13955db14fcedf2419a8f80 *man/retel.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
