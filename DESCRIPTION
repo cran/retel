@@ -1,15 +1,15 @@
 Package: retel
 Type: Package
 Title: Regularized Exponentially Tilted Empirical Likelihood
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
-    person("Eunseop", "Kim", email = "markean@pm.me", 
-            role = c("aut", "cph", "cre")),
+    person("Eunseop", "Kim", email = "markean@pm.me", role = c("aut", "cph", "cre"),
+            comment = c(ORCID = "0009-0000-2138-788X")),
     person("Steven", "MacEachern", role = c("ctb", "ths")),
     person("Mario", "Peruggia", role = c("ctb", "ths"))
   )
 Description: Implements the regularized exponentially tilted empirical 
-    likelihood method. Details of the methods are given in Kim, MacEachern, and 
+    likelihood method. Details of the method are given in Kim, MacEachern, and 
     Peruggia (2023) <doi:10.48550/arXiv.2312.17015>. This work was supported by 
     the U.S. National Science Foundation under Grants No. SES-1921523 and 
     DMS-2015552.
@@ -21,13 +21,14 @@ Suggests: melt, spelling
 Encoding: UTF-8
 Language: en-US
 LazyData: true
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.2
 Imports: checkmate, Matrix, matrixcalc, nloptr
 NeedsCompilation: no
-Packaged: 2024-01-22 01:35:21 UTC; markean
-Author: Eunseop Kim [aut, cph, cre],
+Packaged: 2025-07-27 15:12:12 UTC; markean
+Author: Eunseop Kim [aut, cph, cre] (ORCID:
+    <https://orcid.org/0009-0000-2138-788X>),
   Steven MacEachern [ctb, ths],
   Mario Peruggia [ctb, ths]
 Maintainer: Eunseop Kim <markean@pm.me>
 Repository: CRAN
-Date/Publication: 2024-01-22 18:20:06 UTC
+Date/Publication: 2025-07-27 15:30:02 UTC
